@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MustafaKhurram2k4
-- 👀 I’m interested in solving errors.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects.
+- 👀 I’m interested in developing frontend.
+- 💞️ I’m looking to collaborate on python, C++, frontend(HTML,CSS,JS, React and React-Native) projects.
 - 📫 How to reach me, email - mustafakhurram2work@gmail.com
 - ⚡ Fun fact: im into robotics and developing games.
 
