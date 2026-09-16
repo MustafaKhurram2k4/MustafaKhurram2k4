@@ -228,7 +228,7 @@ C COMPILERS SYSTEMS
 
 <div align="center">
 
-           GAME DEVELOPMENT
+               GAME DEVELOPMENT
                │
                ┌────────────────┴────────────────┐
                │                                 │
