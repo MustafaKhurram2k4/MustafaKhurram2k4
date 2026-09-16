@@ -228,12 +228,12 @@ C COMPILERS SYSTEMS
 
 <div align="center">
 
-                         GAME DEVELOPMENT
-                                │
+                  GAME DEVELOPMENT
+                         │
                ┌────────────────┴────────────────┐
                │                                 │
                ▼                                 ▼
-          UNITY ENGINE                       ROBLOX
+              UNITY ENGINE                       ROBLOX
                │                                 │
                ▼                                 ▼
                    C#                            LUA / LUAU
