@@ -240,8 +240,8 @@ C COMPILERS SYSTEMS
                │                                 │
                └──────────────┬──────────────────┘
            ▼
-                    GAMEPLAY • SYSTEMS
-                    INTERACTION • LOGIC
+                GAMEPLAY • SYSTEMS
+                INTERACTION • LOGIC
 
 🎮 Unity
 
