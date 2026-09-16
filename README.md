@@ -320,7 +320,7 @@ Programming fundamentals & experimentation
                       │
                       ▼
                        ┌──────────────────┐
-                                       │      BUILD       │◄───────────┐
+                                     │      BUILD       │◄───────────┐
                               └────────┬─────────┘            │
                           │                      │
                           ▼                      │
