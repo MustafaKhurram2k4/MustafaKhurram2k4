@@ -228,8 +228,8 @@ C COMPILERS SYSTEMS
 
 <div align="center">
 
-                  GAME DEVELOPMENT
-                         │
+        GAME DEVELOPMENT
+               │
                ┌────────────────┴────────────────┐
                │                                 │
                ▼                                 ▼
@@ -239,7 +239,7 @@ C COMPILERS SYSTEMS
                    C#                            LUA / LUAU
                │                                 │
                └──────────────┬──────────────────┘
-                              ▼
+                ▼
                     GAMEPLAY • SYSTEMS
                     INTERACTION • LOGIC
 
