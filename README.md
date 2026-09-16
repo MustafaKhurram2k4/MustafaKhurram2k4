@@ -1,88 +1,127 @@
 <div align="center">
 
-Mustafa Khurram
+<a href="https://github.com/MustafaKhurram2k4">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MUSTAFA%20KHURRAM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20FULL-STACK%20BUILDER%20%E2%80%A2%20PRODUCT%20ENGINEER&descSize=15&descAlignY=61&color=0:020617,35:111827,70:312e81,100:7c3aed" width="100%" alt="Mustafa Khurram profile header"/>
+</a>
 
-Software Developer • Full-Stack Engineer • Product Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+turn+ideas+into+working+software.;Frontend+%E2%86%92+APIs+%E2%86%92+Data+%E2%86%92+Product.;Building+clean%2C+useful%2C+human-friendly+experiences.;Currently+focused+on+Software+Engineering." alt="Animated introduction"/>
 
-<p>
-  <a href="https://github.com/MustafaKhurram2k4">
-    <img src="https://img.shields.io/badge/GitHub-MustafaKhurram2k4-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:mustafakhurram2work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:312e81,100:7c3aed&section=header&text=MUSTAFA%20KHURRAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20software%20that%20feels%20good%20to%20use&descAlignY=62&descSize=16" width="100%" alt="Header">
+<a href="https://github.com/MustafaKhurram2k4?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore work"/>
+</a>
+<a href="mailto:mustafakhurram2work@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-312e81?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+</a>
 
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Software+Developer;Full-Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Computer+Science+%26+Engineering+Student;Turning+ideas+into+working+products" alt="Typing introduction">
+<img src="https://komarev.com/ghpvc/?username=MustafaKhurram2k4&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-whoami
-
-I build software end-to-end — from the first interface to the API behind it.
-
-Currently:
-→ B.Tech CSE @ JIIT Noida
-→ Focused on software engineering and full-stack development
-→ Building practical products instead of tutorial-only projects
-→ Exploring systems, data, security and intelligent applications
-
-I care about:
-clean architecture • useful UX • performance • maintainability • shipping
+01 — WHO AM I?
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-⚡ What I Build
+Hey, I'm Mustafa. 👋
 
-Full-stack web applications
+I'm a Computer Science & Engineering student at JIIT Noida who enjoys taking an idea from a blank screen to something people can actually use.
 
-Developer tools
+My work sits at the intersection of:
 
-Data-driven products
+software engineering × product thinking × interactive interfaces
 
-Real-time interfaces
+I like projects where the engineering is real, the interface has a reason to exist, and the final result feels polished rather than assembled from a template.
 
-Security / verification tools
-
-Interactive dashboards
-
-Experimental software
+Think        →  Build        →  Test
+    ↘              ↓             ↙
+          Refine  →  Ship
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-🧭 Current Direction
+CURRENT MODE
 
-Software Engineering
+STATUS
+  ● BUILDING
 
-React + Node.js + REST APIs
-MongoDB + MySQL + Firebase
-TypeScript + JavaScript + Python
-Git + GitHub + modern developer tooling
+FOCUS
+  Software Engineering
+  Full-Stack Development
+  Product-minded UI
+
+STACK
+  React / TypeScript
+  Node.js / APIs
+  MongoDB / MySQL
+  Python / C++
+
+PHILOSOPHY
+  Make it useful.
+  Make it understandable.
+  Make it feel good.
 
 </td>
 </tr>
 </table>
 
-🧰 Technology
+02 — THE STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,figma&perline=9" alt="Technology stack">
+Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript&perline=6" alt="C, C++, Java, Python, JavaScript and TypeScript"/>
+
+Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind&perline=6" alt="React, Node.js, Express, HTML, CSS and Tailwind"/>
+
+Data, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma&perline=7" alt="MongoDB, MySQL, Firebase, Git, GitHub, VS Code and Figma"/>
 
 </div>
 
-🚀 Selected Work
+<details>
+<summary><b>View the stack as a map</b></summary>
+
+                         ┌──────────────────────┐
+                         │      PRODUCT         │
+                         │  UX • Interaction    │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │       FRONTEND       │
+                         │ React • TS • JS      │
+                         │ HTML • CSS • Tailwind │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │       BACKEND        │
+                         │ Node • Express • API │
+                         └──────────┬───────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              ▼                     ▼                     ▼
+        ┌───────────┐         ┌───────────┐         ┌───────────┐
+        │ MongoDB   │         │  MySQL    │         │ Firebase  │
+        └───────────┘         └───────────┘         └───────────┘
+                                    │
+                         ┌──────────▼───────────┐
+                         │     ENGINEERING      │
+                         │ C/C++ • Java • Python│
+                         └──────────────────────┘
+
+</details>
+
+03 — SELECTED BUILDS
+
+A few projects that represent different sides of how I like to build.
 
 <table>
 <tr>
@@ -92,11 +131,13 @@ Git + GitHub + modern developer tooling
 
 F1 Telemetry & Predictive Strategy
 
-A telemetry analytics platform focused on turning racing data into useful visual insights and strategy-oriented information.
+A data-focused project exploring telemetry, analytics and strategy-oriented visualization.
 
-Stack: Full-stack Web • Data Visualization
+Direction
 
-→ View repository
+DATA ANALYTICS FULL-STACK
+
+<a href="https://github.com/MustafaKhurram2k4/Apex-Analytics">→ Open project</a>
 
 </td>
 <td width="50%" valign="top">
@@ -107,9 +148,11 @@ Digital Provenance / Watermarking
 
 A project exploring digital authenticity and provenance verification through watermarking techniques.
 
-Stack: Python • Image Processing
+Direction
 
-→ View repository
+PYTHON IMAGE PROCESSING PROVENANCE
+
+<a href="https://github.com/MustafaKhurram2k4/AuraMark">→ Open project</a>
 
 </td>
 </tr>
@@ -119,126 +162,224 @@ Stack: Python • Image Processing
 
 💳 UPI Fraud Detector
 
-Fraud Detection
+Transaction Fraud Detection
 
 A project focused on identifying potentially suspicious UPI transaction patterns.
 
-Stack: Python • Data / ML
+Direction
 
-→ View repository
+PYTHON DATA FRAUD DETECTION
+
+<a href="https://github.com/MustafaKhurram2k4/UPI-Fraud-Detector">→ Open project</a>
 
 </td>
 <td width="50%" valign="top">
 
-🌌 Space Dash
+🧩 Mini C Compiler
 
-Interactive Game
+Compiler / Systems Exploration
 
-A lightweight interactive project built around gameplay, controls and visual feedback.
+A compact compiler-focused project demonstrating interest beyond application-level development.
 
-Stack: JavaScript / Web
+Direction
 
-→ View repository
+C COMPILERS SYSTEMS
+
+<a href="https://github.com/MustafaKhurram2k4/Mini-C-Compiler">→ Open project</a>
 
 </td>
 </tr>
 </table>
 
-🧪 More Projects
+04 — THE LAB
+
+Projects don't all need to be the same kind of thing.
 
 Project
 
-Area
+What it explores
 
-Mini C Compiler
+🌑 Whispers in the Dark
 
-Compilers / Systems
+Web development / interactive experience
 
-Whispers in the Dark
+🐱 Malak Meow Machine
 
-Web Development
+Interactive web experimentation
 
-Malak Meow Machine
+🌌 Space Dash
 
-Interactive Web
+Game / interactive programming
 
-Spotify Subscription UX Strategy
+🎵 Spotify Subscription UX Strategy
 
-Product / UX
+Product & UX thinking
 
-Notion Project Management Redesign
+🗂️ Notion Project Management Redesign
 
-Product / UX
+Product / interface thinking
 
-C / Systems Experiments
+💻 C
 
-Programming / Fundamentals
+Programming fundamentals & experimentation
 
-📊 GitHub
+<a href="https://github.com/MustafaKhurram2k4?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-%E2%86%92-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+</a>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MustafaKhurram2k4&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=94a3b8&rank_icon=github" alt="GitHub statistics">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhurram2k4&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=94a3b8&langs_count=8" alt="Top languages">
-
-</div>
-
-<br>
+05 — HOW I BUILD
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MustafaKhurram2k4&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak">
+     ┌───────────────┐
+     │   PROBLEM     │
+     └───────┬───────┘
+             │
+             ▼
+     ┌───────────────┐
+     │   UNDERSTAND  │
+     └───────┬───────┘
+             │
+             ▼
+     ┌───────────────┐
+     │    DESIGN     │
+     └───────┬───────┘
+             │
+             ▼
+     ┌───────────────┐
+     │     BUILD     │◄──────────┐
+     └───────┬───────┘           │
+             │                   │
+             ▼                   │
+     ┌───────────────┐           │
+     │     TEST      │───────────┘
+     └───────┬───────┘
+             │
+             ▼
+     ┌───────────────┐
+     │     SHIP      │
+     └───────────────┘
 
 </div>
 
-🧩 How I Work
+I care about the parts users notice and the parts they never should.
 
-01  Understand the problem
-02  Break it into systems
-03  Design the experience
-04  Build the smallest working version
-05  Test it with real use cases
-06  Refine the rough edges
-07  Ship
+That means readable code, sensible architecture, responsive interfaces, useful feedback, and removing unnecessary friction.
 
-I prefer projects that demonstrate how I think, not just how many technologies I can list.
+06 — GITHUB SIGNAL
 
-📌 Currently Building
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaKhurram2k4&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=94A3B8" height="180" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhurram2k4&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8" height="180" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MustafaKhurram2k4&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak"/>
+
+</div>
+
+07 — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaKhurram2k4&bg_color=00000000&color=94a3b8&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=BUILD%20ACTIVITY" width="96%" alt="GitHub activity graph"/>
+
+</div>
+
+08 — CURRENTLY
 
 <table>
 <tr>
-<td>
+<td width="33%" align="center">
 
-Software Engineering
+🧱 BUILD
 
-Working toward stronger production-grade skills in:
+Software engineering fundamentals
+Full-stack applications
+Developer-oriented projects
 
-React · TypeScript · Node.js · REST APIs · Databases · Git
+</td>
+<td width="33%" align="center">
+
+⚙️ IMPROVE
+
+Architecture
+APIs
+Databases
+TypeScript
+Production practices
+
+</td>
+<td width="33%" align="center">
+
+🧪 EXPLORE
+
+Systems
+Data
+Security
+Interactive products
 
 </td>
 </tr>
 </table>
 
-🤝 Connect
+09 — A LITTLE MORE HUMAN
+
+<details>
+<summary><b>What I value when building software</b></summary>
+
+<br>
+
+Clarity over cleverness.
+
+If another developer cannot understand it, it probably isn't finished.
+
+Useful over impressive.
+
+A flashy feature that solves nothing is still noise.
+
+Smooth over complicated.
+
+Good interfaces should feel obvious.
+
+Iteration over perfection.
+
+Build → observe → improve → repeat.
+
+</details>
+
+<details>
+<summary><b>Things I enjoy working on</b></summary>
+
+<br>
+
+WEB APPS · DEVELOPER TOOLS · DATA PRODUCTS · DASHBOARDS
+AUTOMATION · SECURITY · SYSTEMS · INTERACTIVE EXPERIENCES
+
+</details>
+
+10 — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/MustafaKhurram2k4">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+<img src="https://img.shields.io/badge/GitHub-MustafaKhurram2k4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="mailto:mustafakhurram2work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-mustafakhurram2work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<sub>Designed to be clean, fast to scan, and focused on the work.</sub>
+If something here catches your eye, open the repository.
 
-</div>
+<sub>Code is the portfolio. This README is the map.</sub>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,50:312e81,100:0f172a&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7c3aed,45:312e81,100:020617" width="100%" alt="Profile footer"/>
 
 </div>
