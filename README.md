@@ -239,7 +239,7 @@ C COMPILERS SYSTEMS
                    C#                            LUA / LUAU
                │                                 │
                └──────────────┬──────────────────┘
-          ▼
+           ▼
                     GAMEPLAY • SYSTEMS
                     INTERACTION • LOGIC
 
