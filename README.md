@@ -305,10 +305,10 @@ Programming fundamentals & experimentation
 <div align="center">
 
                          ┌──────────────┐
-                         │     IDEA     │
-                         └──────┬───────┘
-                                │
-                                ▼
+          │     IDEA     │
+          └──────┬───────┘
+                 │
+                      ▼
                       ┌──────────────────┐
                       │    UNDERSTAND    │
                       └────────┬─────────┘
