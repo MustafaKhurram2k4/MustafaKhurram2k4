@@ -236,7 +236,7 @@ C COMPILERS SYSTEMS
           UNITY ENGINE                       ROBLOX
                │                                 │
                ▼                                 ▼
-                 C#                            LUA / LUAU
+                   C#                            LUA / LUAU
                │                                 │
                └──────────────┬──────────────────┘
                               ▼
